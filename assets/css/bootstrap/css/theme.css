@@ -1,0 +1,10 @@
+body {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
